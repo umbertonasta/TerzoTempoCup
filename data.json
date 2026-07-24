@@ -1434,8 +1434,8 @@
       "id": "final",
       "round": "Finale",
       "group": "F",
-      "home": "Vincente S1",
-      "away": "Vincente S2",
+      "home": "3P NEXT GEN",
+      "away": "ZEKEKE",
       "date": "24 Lug",
       "time": "23:15",
       "location": "Campo Sportivo Trecchina",
@@ -2792,7 +2792,7 @@
       "date": "24 Lug",
       "matches": [
         {
-          "name": "Vincente S1 vs Vincente S2",
+          "name": "3P NEXT GEN vs ZEKEKE",
           "link": "",
           "count": 0,
           "yt": "#"
@@ -2839,7 +2839,7 @@
     {
       "round": "Finale",
       "label": "Finale",
-      "lockAt": "2026-07-24T23:15:00+02:00",
+      "lockAt": "2026-07-25T00:00:00+02:00",
       "status": "open",
       "message": "Pronostici aperti"
     }
