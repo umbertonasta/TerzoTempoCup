@@ -1439,10 +1439,10 @@
       "date": "24 Lug",
       "time": "23:15",
       "location": "Campo Sportivo Trecchina",
-      "sh": null,
-      "sa": null,
+      "sh": 6,
+      "sa": 5,
       "yt": "#",
-      "detailId": null
+      "detailId": "final"
     }
   ],
   "DETAILS": {
@@ -2742,6 +2742,101 @@
         }
       ],
       "penalties": []
+    },
+    "final": {
+      "mvp": {
+        "name": "Ferdinando Sisca",
+        "team": "golden"
+      },
+      "scorers": [
+        {
+          "team": "3P NEXT GEN",
+          "name": "Gennaro Agrelli",
+          "min": 1,
+          "assist": "Enrico Olivieri"
+        },
+        {
+          "team": "3P NEXT GEN",
+          "name": "Enrico Olivieri",
+          "min": 4,
+          "assist": "Biagio Scotellaro"
+        },
+        {
+          "team": "ZEKEKE",
+          "name": "Angelo Mastroianni",
+          "min": 4,
+          "assist": "Davide Filpi"
+        },
+        {
+          "team": "3P NEXT GEN",
+          "name": "Gennaro Agrelli",
+          "min": 6,
+          "assist": "Ferdinando Sisca"
+        },
+        {
+          "team": "ZEKEKE",
+          "name": "Autogol",
+          "min": 7
+        },
+        {
+          "team": "ZEKEKE",
+          "name": "Alessandro Colombo",
+          "min": 9,
+          "assist": "Davide Orlando"
+        },
+        {
+          "team": "3P NEXT GEN",
+          "name": "Ferdinando Sisca",
+          "min": 10,
+          "assist": "Gennaro Agrelli"
+        },
+        {
+          "team": "ZEKEKE",
+          "name": "Alessandro Colombo",
+          "min": 15,
+          "assist": "Marco Petrosino"
+        },
+        {
+          "team": "3P NEXT GEN",
+          "name": "Autogol",
+          "min": 16
+        },
+        {
+          "team": "3P NEXT GEN",
+          "name": "Davide Supino",
+          "min": 17,
+          "assist": "Ferdinando Sisca"
+        },
+        {
+          "team": "ZEKEKE",
+          "name": "Angelo Mastroianni",
+          "min": 25
+        }
+      ],
+      "cards": [
+        {
+          "team": "ZEKEKE",
+          "name": "Pasquale Carlomagno",
+          "min": 8,
+          "type": "Y"
+        },
+        {
+          "team": "3P NEXT GEN",
+          "name": "Biagio Scotellaro",
+          "min": 24,
+          "type": "Y"
+        }
+      ],
+      "penalties": [
+        {
+          "team": "ZEKEKE",
+          "name": "Angelo Mastroianni",
+          "min": 28,
+          "outcome": "sbagliato",
+          "against": "3P NEXT GEN",
+          "saved": false
+        }
+      ]
     }
   },
   "GALLERY": [
@@ -2889,13 +2984,13 @@
       "matches": [
         {
           "name": "ZEKEKE vs ENOTRIA REVELIA",
-          "link": "",
+          "link": "https://drive.google.com/drive/folders/1V4tfBNZjpCJoRPx5fKDspfZHt6VCJzQM?usp=drive_link",
           "count": 84,
           "yt": "#"
         },
         {
           "name": "3P NEXT GEN vs LA BELLA LUCANIA",
-          "link": "",
+          "link": "https://drive.google.com/drive/folders/1KrDVSjVAlmNQjN7b29aaaqqRIprs7xB4?usp=drive_link",
           "count": 70,
           "yt": "#"
         }
@@ -2907,7 +3002,7 @@
       "matches": [
         {
           "name": "3P NEXT GEN vs ZEKEKE",
-          "link": "",
+          "link": "https://drive.google.com/drive/folders/1fjtcM-jkaCSW5e-zJobQfTwpgM4i-HWB?usp=drive_link",
           "count": 144,
           "yt": "#"
         }
@@ -2919,53 +3014,63 @@
       "round": "Giornata 1",
       "label": "Giornata 1",
       "lockAt": "2026-07-20T21:00:00+02:00",
-      "status": "open",
-      "message": "Pronostici aperti"
+      "status": "closed",
+      "message": "Pronostici chiusi - torneo concluso"
     },
     {
       "round": "Giornata 2",
       "label": "Giornata 2",
       "lockAt": "2026-07-21T20:00:00+02:00",
-      "status": "open",
-      "message": "Pronostici aperti"
+      "status": "closed",
+      "message": "Pronostici chiusi - torneo concluso"
     },
     {
       "round": "Giornata 3",
       "label": "Giornata 3",
       "lockAt": "2026-07-22T20:30:00+02:00",
-      "status": "open",
-      "message": "Pronostici aperti"
+      "status": "closed",
+      "message": "Pronostici chiusi - torneo concluso"
     },
     {
       "round": "Quarti di Finale",
       "label": "Quarti di Finale",
       "lockAt": "2026-07-23T20:00:00+02:00",
-      "status": "open",
-      "message": "Pronostici aperti"
+      "status": "closed",
+      "message": "Pronostici chiusi - torneo concluso"
     },
     {
       "round": "Semifinali",
       "label": "Semifinali",
       "lockAt": "2026-07-24T21:30:00+02:00",
-      "status": "open",
-      "message": "Pronostici aperti"
+      "status": "closed",
+      "message": "Pronostici chiusi - torneo concluso"
     },
     {
       "round": "Finale",
       "label": "Finale",
       "lockAt": "2026-07-25T00:00:00+02:00",
-      "status": "open",
-      "message": "Pronostici aperti"
+      "status": "closed",
+      "message": "Pronostici chiusi - torneo concluso"
     }
   ],
   "PREDICTION_FINAL_AWARDS": {
     "bestGoalkeeper": {
-      "name": null,
-      "team": null
+      "name": "Antonio Nocera",
+      "team": "phoenix"
     },
     "bestPlayer": {
-      "name": null,
-      "team": null
-    }
+      "name": "Ferdinando Sisca",
+      "team": "golden"
+    },
+    "topScorers": [
+      {
+        "name": "Angelo Mastroianni",
+        "team": "redstorm"
+      },
+      {
+        "name": "Paolo Laino",
+        "team": "falcons"
+      }
+    ]
   }
 }
