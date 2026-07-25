@@ -2669,7 +2669,9 @@
           "min": 17,
           "outcome": "sbagliato",
           "against": "ZEKEKE",
-          "saved": false
+          "saved": true,
+          "goalkeeper": "Pasquale Carlomagno",
+          "goalkeeperTeam": "ZEKEKE"
         }
       ]
     },
@@ -2834,7 +2836,9 @@
           "min": 28,
           "outcome": "sbagliato",
           "against": "3P NEXT GEN",
-          "saved": false
+          "saved": true,
+          "goalkeeper": "Biagio Scotellaro",
+          "goalkeeperTeam": "3P NEXT GEN"
         }
       ]
     }
