@@ -1411,10 +1411,10 @@
       "date": "24 Lug",
       "time": "21:30",
       "location": "Campo Sportivo Trecchina",
-      "sh": null,
-      "sa": null,
+      "sh": 0,
+      "sa": 1,
       "yt": "#",
-      "detailId": null
+      "detailId": "sf1"
     },
     {
       "id": "sf2",
@@ -1425,10 +1425,10 @@
       "date": "24 Lug",
       "time": "22:15",
       "location": "Campo Sportivo Trecchina",
-      "sh": null,
-      "sa": null,
+      "sh": 5,
+      "sa": 2,
       "yt": "#",
-      "detailId": null
+      "detailId": "sf2"
     },
     {
       "id": "final",
@@ -2628,6 +2628,120 @@
         }
       ],
       "note": "3-3 nei tempi regolamentari, 7-6 dopo i tempi supplementari"
+    },
+    "sf1": {
+      "mvp": {
+        "name": "Antonio Nocera",
+        "team": "phoenix"
+      },
+      "scorers": [
+        {
+          "team": "ZEKEKE",
+          "name": "Angelo Mastroianni",
+          "min": 23,
+          "assist": "Davide Orlando"
+        }
+      ],
+      "cards": [
+        {
+          "team": "ZEKEKE",
+          "name": "Alessandro Colombo",
+          "min": 6,
+          "type": "Y"
+        },
+        {
+          "team": "ZEKEKE",
+          "name": "Angelo Mastroianni",
+          "min": 29,
+          "type": "Y"
+        },
+        {
+          "team": "ENOTRIA REVELIA",
+          "name": "Fabio Ferrari",
+          "min": 30,
+          "type": "Y"
+        }
+      ],
+      "penalties": [
+        {
+          "team": "ENOTRIA REVELIA",
+          "name": "Fabio Ferrari",
+          "min": 17,
+          "outcome": "sbagliato",
+          "against": "ZEKEKE",
+          "saved": false
+        }
+      ]
+    },
+    "sf2": {
+      "mvp": {
+        "name": "Ferdinando Sisca",
+        "team": "golden"
+      },
+      "scorers": [
+        {
+          "team": "3P NEXT GEN",
+          "name": "Ferdinando Sisca",
+          "min": 5,
+          "assist": "Enrico Olivieri"
+        },
+        {
+          "team": "3P NEXT GEN",
+          "name": "Ferdinando Sisca",
+          "min": 11,
+          "assist": "Biagio Scotellaro"
+        },
+        {
+          "team": "3P NEXT GEN",
+          "name": "Ferdinando Sisca",
+          "min": 19,
+          "assist": "Davide Supino"
+        },
+        {
+          "team": "3P NEXT GEN",
+          "name": "Gennaro Agrelli",
+          "min": 21
+        },
+        {
+          "team": "LA BELLA LUCANIA",
+          "name": "Paolo Laino",
+          "min": 24,
+          "assist": "Michelangelo Maimone"
+        },
+        {
+          "team": "3P NEXT GEN",
+          "name": "Gennaro Agrelli",
+          "min": 25,
+          "assist": "Enrico Olivieri"
+        },
+        {
+          "team": "LA BELLA LUCANIA",
+          "name": "Paolo Laino",
+          "min": 30,
+          "assist": "Michelangelo Maimone"
+        }
+      ],
+      "cards": [
+        {
+          "team": "LA BELLA LUCANIA",
+          "name": "Aldo Toma",
+          "min": 6,
+          "type": "Y"
+        },
+        {
+          "team": "3P NEXT GEN",
+          "name": "Biagio Scotellaro",
+          "min": 13,
+          "type": "Y"
+        },
+        {
+          "team": "3P NEXT GEN",
+          "name": "Davide Supino",
+          "min": 30,
+          "type": "Y"
+        }
+      ],
+      "penalties": []
     }
   },
   "GALLERY": [
@@ -2776,13 +2890,13 @@
         {
           "name": "ZEKEKE vs ENOTRIA REVELIA",
           "link": "",
-          "count": 0,
+          "count": 84,
           "yt": "#"
         },
         {
           "name": "3P NEXT GEN vs LA BELLA LUCANIA",
           "link": "",
-          "count": 0,
+          "count": 70,
           "yt": "#"
         }
       ]
@@ -2794,7 +2908,7 @@
         {
           "name": "3P NEXT GEN vs ZEKEKE",
           "link": "",
-          "count": 0,
+          "count": 144,
           "yt": "#"
         }
       ]
